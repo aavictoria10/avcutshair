@@ -5,21 +5,15 @@
 <head>
 </head>
 <body> 
-<p> Mr. <strong>Marchant </strong> </p>
-<p> Mr. Marchant is </p>
-<p> Mr. Marchant is cool </p>
+  <h1> About </h1>
+<p> My name is Aaron and I cut hair. I've been cutting for 9 months now and I've cut over 30 people so I'm kind of experienced. I cut all hair types and do plenty of hairstyles. </p>
 
-<h6> Remember me though I have to say goodbye
-Remember me, don't let it make you cry
-For even if I'm far away, I hold you in my heart
-I sing a secret song to you each night we are apart
-Remember me though I have to travel far
-Remember me each time you hear a sad guitar
-Know that I'm with you the only way that I can be
-Until you're in my arms again
-Remember me </h6>
+<h3> Why I started </h3>
+<p>My mom used to cut my hair so we would have haircut tools at my house. One day, my friend Benjamin had terrible hair and with no experienced I offered to cut his hair. With no experience, I just did it over 1 hour and 40 min for my first time on the first day of Winter Break. That day started it all. </p>
 
-<p> Mr. Ou is my favorite teacher tho </p>
+<a href="["](https://www.wikihow.com/Cut-Your-Own-Hair-(Men)>How I learned to cut hair</a>
+<img src="Untitled.png">
+<p>First Haircut in my Backyard 12/22</p>
 
 
 
@@ -30,8 +24,7 @@ h1 {color:white;}
 body {background:#FF10F0;}
 </style>
 
-<img src="Untitled.png" alt="TOES">
-<img src="Untitled.png" alt="TOES">
+
 
 
 </html>

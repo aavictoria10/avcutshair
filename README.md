@@ -1,7 +1,7 @@
 # avcutshair
 "my name is aaron and I cut hair"
-<!DOCTYPE html>
 <html>
+<!DOCTYPE html>
 <head>
 </head>
 <body> 

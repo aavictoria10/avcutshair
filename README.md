@@ -33,6 +33,11 @@
 <img src="tj.png">
 <p> Haircut I did on TJ</p>
 
+<br>
+<br>
+<br>
+<img src="russell.png">
+
 </body>
 
 <style> 

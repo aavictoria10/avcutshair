@@ -10,8 +10,23 @@
 <h3> Why I started </h3>
 <h4>My mom used to cut my hair so we would have haircut tools at my house. One day, my friend Benjamin had terrible hair and with no experienced I offered to cut his hair. With no experience, I just did it over 1 hour and 40 min for my first time on the first day of Winter Break. That day started it all. </h4>
 
-<a href="(https://www.wikihow.com/Cut-Your-Own-Hair-(Men)"> How I learned to cut hair</a>
+<h3> Services </h3>
+<h4> $5 Haircuts &#128558</h4>
 
+<ul>
+  Tapers
+  Scissor Cuts
+  Bald
+  Buzz Cut
+  Lebron James
+  Shiny Balls
+  Mohalk 
+  Reverse Mohawk
+  Inverted Mohawk
+</ul>
+
+<a href="(https://www.wikihow.com/Cut-Your-Own-Hair-(Men)"> How I learned to cut hair</a>
+<br>
 <img src="benji.png">
 <p>First Haircut in my Backyard 12/22</p>
 <img src="tj.png">

@@ -30,8 +30,8 @@ h1 {color:white;}
 body {background:#FF10F0;}
 </style>
 
-<img src="kavi.jpeg" alt="TOES">
-<img src="kavi.jpeg" alt="TOES">
+<img src="Untitled.png" alt="TOES">
+<img src="Untitled.png" alt="TOES">
 
 
 </html>

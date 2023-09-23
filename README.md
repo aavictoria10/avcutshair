@@ -1,7 +1,6 @@
 # avcutshair
 "my name is aaron and I cut hair"
 <html>
-<!DOCTYPE html>
 <head>
 </head>
 <body> 
@@ -13,7 +12,7 @@
 
 <a href="(https://www.wikihow.com/Cut-Your-Own-Hair-(Men)"> How I learned to cut hair</a>
 
-<img src="Untitled.heif">
+<img src="Untitled.heic">
 <p>First Haircut in my Backyard 12/22</p>
 <img src="tj.png">
 <p> Haircut I did on TJ</p>

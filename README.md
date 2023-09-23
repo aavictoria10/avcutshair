@@ -12,7 +12,7 @@
 
 <a href="(https://www.wikihow.com/Cut-Your-Own-Hair-(Men)"> How I learned to cut hair</a>
 
-<img src="Untitled.heic">
+<img src="benji.png">
 <p>First Haircut in my Backyard 12/22</p>
 <img src="tj.png">
 <p> Haircut I did on TJ</p>

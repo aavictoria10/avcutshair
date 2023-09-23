@@ -15,7 +15,7 @@
 
 <meta charset="UTF-8">
 
-<h4> $5 Haircuts </h4> <p>&#128558 </p>
+<h4> $5 Haircut &#128558 </h4>
 
 <ul>
   <li> Tapers </li>

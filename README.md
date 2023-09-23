@@ -14,15 +14,15 @@
 <h4> $5 Haircuts &#128558</h4>
 
 <ul>
-  Tapers
-  Scissor Cuts
-  Bald
-  Buzz Cut
-  Lebron James
-  Shiny Balls
-  Mohalk 
-  Reverse Mohawk
-  Inverted Mohawk
+  <li> Tapers </li>
+  <li> Scissor Cuts </li>
+  <li> Bald </li>
+  <li> Buzz Cut </li>
+  <li >Lebron James </li>
+  <li> Shiny Bald </li> 
+  <li> Mohalk </li> 
+  <li> Reverse Mohawk </li>
+  <li>Inverted Mohawk </li>
 </ul>
 
 <a href="(https://www.wikihow.com/Cut-Your-Own-Hair-(Men)"> How I learned to cut hair</a>

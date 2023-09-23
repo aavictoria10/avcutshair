@@ -11,6 +11,9 @@
 <h4>My mom used to cut my hair so we would have haircut tools at my house. One day, my friend Benjamin had terrible hair and with no experienced I offered to cut his hair. With no experience, I just did it over 1 hour and 40 min for my first time on the first day of Winter Break. That day started it all. </h4>
 
 <h3> Services </h3>
+
+<meta charset="UTF-8">
+
 <h4> $5 Haircuts </h4> <p>&#128558 </p>
 
 <ul>

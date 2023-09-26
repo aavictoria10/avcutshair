@@ -28,7 +28,8 @@
   <li>Inverted Mohawk </li>
 </ul>
 
-<a href="(https://www.wikihow.com/Cut-Your-Own-Hair-(Men)"> How I learned to cut hair</a>
+
+<a href="https://www.wikihow.com/Cut-Your-Own-Hair-(Men)" target="_blank"> How I learned to cut hair </a>
 <br>
 <br>
 <img src="benji.png">
